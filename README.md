@@ -1,6 +1,4 @@
 <h1 align="center">Jean-Christophe Mehr</h1>
-<p align="center"><i>Data engineer since 2015. Web 3.0 explorer.</i></p>
-<p align="center"><sub>Onchain games, autonomous agents, custom tooling.</sub></p>
 
 <p align="center">
   <a href="https://github.com/djizus">
@@ -35,22 +33,6 @@
 | **[Zordle](https://github.com/z-korp/zordle)** | Game | Fully onchain daily Wordle on Starknet, built on the EGC game-token standard. | [zordle-azure.vercel.app](https://zordle-azure.vercel.app) |
 | **[Loot Adventurer](https://github.com/z-korp/death-mountain)** | Tool | Custom client for the onchain dungeon-crawler Loot Survivor 2. Automation, enhanced overlays, used by 300+ adventurers daily. | [lootadventurer.xyz](https://lootadventurer.xyz) |
 | **[x402-casino](https://github.com/djizus/x402-casino)** | Agent | Lucid casino lobby. Agents play poker, slots and blackjack, paying each other with x402 on Base. | [x402-casino.vercel.app](https://x402-casino.vercel.app) |
-
-### 📈 Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="170" alt="djizus streak" src="https://streak-stats.demolab.com?user=djizus&hide_border=true&background=0d1524&stroke=5755ff&ring=5755ff&fire=5755ff&currStreakLabel=5755ff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=999999" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="Top languages across djizus's owned repositories" src="./assets/langs.svg" />
-</p>
-
-<p align="center">
-  <img alt="djizus contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=djizus&theme=react-dark&bg_color=0d1524&color=ffffff&line=5755ff&point=ffffff&hide_border=true&custom_title=Contribution+activity&area=true" />
-</p>
 
 ### 🧭 Background
 
