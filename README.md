@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="djizus" src="./assets/header.png" width="900" />
+  <img alt="djizus" src="./assets/header.svg" width="900" />
 </p>
 
 <p align="center">

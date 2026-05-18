@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1400" height="400"
+     viewBox="0 0 1400 400"
+     role="img" aria-label="djizus">
+  <defs>
+    <!-- Base gradient that lives in the letters: violet to lilac to white, with extra width
+         so the gradient can be translated horizontally to create a sweep effect. -->
+    <linearGradient id="gradFill" gradientUnits="userSpaceOnUse"
+                    x1="0" y1="24.00"
+                    x2="679.20" y2="264.00">
+      <stop offset="0"   stop-color="#5755ff"/>
+      <stop offset="0.5" stop-color="#c7c5ff"/>
+      <stop offset="1"   stop-color="#ffffff"/>
+    </linearGradient>
+
+    <!-- Animated white highlight that sweeps left to right across the letters -->
+    <linearGradient id="sweep" gradientUnits="userSpaceOnUse"
+                    x1="-400" y1="0" x2="0" y2="0">
+      <stop offset="0"   stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.75"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1"   stop-color="#ffffff" stop-opacity="0"/>
+      <animate attributeName="x1" from="-400" to="1400" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="0"    to="1800" dur="3.5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Soft breathing glow filter -->
+    <filter id="glow" x="-15%" y="-50%" width="130%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur">
+        <animate attributeName="stdDeviation" values="5;14;5" dur="4s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Reusable wordmark geometry so we can paint it multiple times in different layers -->
+    <g id="wordmark"><g transform="translate(360.40 264.00)"><g transform="translate(0.00 0) scale(0.24000 -0.24000)"><path d="M270 -14Q211 -14 159.5 15.5Q108 45 77.0 102.0Q46 159 46 240V256Q46 337 77.0 394.0Q108 451 159.0 480.5Q210 510 270 510Q315 510 345.5 499.5Q376 489 395.0 473.0Q414 457 424 439H442V700H568V0H444V60H426Q409 32 373.5 9.0Q338 -14 270 -14ZM308 96Q366 96 405.0 133.5Q444 171 444 243V253Q444 325 405.5 362.5Q367 400 308 400Q250 400 211.0 362.5Q172 325 172 253V243Q172 171 211.0 133.5Q250 96 308 96Z" /></g><g transform="translate(153.12 0) scale(0.24000 -0.24000)"><path d="M-22 -200V-92H44Q72 -92 72 -62V496H198V-88Q198 -139 168.0 -169.5Q138 -200 88 -200ZM135 554Q101 554 77.5 576.0Q54 598 54 634Q54 670 77.5 692.0Q101 714 135 714Q170 714 193.0 692.0Q216 670 216 634Q216 598 193.0 576.0Q170 554 135 554Z" /></g><g transform="translate(217.44 0) scale(0.24000 -0.24000)"><path d="M70 0V496H196V0ZM133 554Q99 554 75.5 576.0Q52 598 52 634Q52 670 75.5 692.0Q99 714 133 714Q168 714 191.0 692.0Q214 670 214 634Q214 598 191.0 576.0Q168 554 133 554Z" /></g><g transform="translate(281.28 0) scale(0.24000 -0.24000)"><path d="M52 0V150L324 376V392H62V496H462V346L190 120V104H470V0Z" /></g><g transform="translate(405.60 0) scale(0.24000 -0.24000)"><path d="M259 -8Q201 -8 157.5 18.5Q114 45 90.0 92.0Q66 139 66 200V496H192V210Q192 154 219.5 126.0Q247 98 298 98Q356 98 388.0 136.5Q420 175 420 244V496H546V0H422V65H404Q392 40 359.0 16.0Q326 -8 259 -8Z" /></g><g transform="translate(553.44 0) scale(0.24000 -0.24000)"><path d="M276 -14Q179 -14 117.0 28.0Q55 70 42 148L158 178Q165 143 181.5 123.0Q198 103 222.5 94.5Q247 86 276 86Q320 86 341.0 101.5Q362 117 362 140Q362 163 342.0 175.5Q322 188 278 196L250 201Q198 211 155.0 228.5Q112 246 86.0 277.0Q60 308 60 357Q60 431 114.0 470.5Q168 510 256 510Q339 510 394.0 473.0Q449 436 466 376L349 340Q341 378 316.5 394.0Q292 410 256 410Q220 410 201.0 397.5Q182 385 182 363Q182 339 202.0 327.5Q222 316 256 310L284 305Q340 295 385.5 278.5Q431 262 457.5 231.5Q484 201 484 149Q484 71 427.5 28.5Q371 -14 276 -14Z" /></g></g></g>
+  </defs>
+
+  <!-- Layer 1: blurred violet halo behind, breathing -->
+  <use href="#wordmark" fill="#5755ff" opacity="0.55" filter="url(#glow)"/>
+
+  <!-- Layer 2: the actual letters with the static violet to white gradient -->
+  <use href="#wordmark" fill="url(#gradFill)"/>
+
+  <!-- Layer 3: animated specular sweep highlight on top -->
+  <use href="#wordmark" fill="url(#sweep)"/>
+</svg>
