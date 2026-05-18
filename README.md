@@ -11,7 +11,6 @@
   <a href="https://x.com/djizus_"><img alt="X" src="https://img.shields.io/badge/X-@djizus__-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mehrjc"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mehrjc-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contact@jcndata.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@jcndata.com-d44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/djizus"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=djizus&color=5755ff&style=for-the-badge&label=PROFILE+VIEWS"></a>
 </p>
 
 ---
