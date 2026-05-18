@@ -1,4 +1,6 @@
-<h1 align="center">djizus</h1>
+<p align="center">
+  <img alt="djizus" src="./assets/header.png" width="900" />
+</p>
 
 <p align="center">
   <a href="https://github.com/djizus">
