@@ -1,4 +1,4 @@
-<h1 align="center">Jean-Christophe Mehr</h1>
+<h1 align="center">djizus</h1>
 
 <p align="center">
   <a href="https://github.com/djizus">
