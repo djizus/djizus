@@ -24,7 +24,7 @@
 | --- | --- | --- | --- |
 | **[Athanor](https://github.com/djizus/athanor)** | Game | Fully onchain potion-crafting race on Starknet. **🏆 GJ8 winner.** | [athanor-psi.vercel.app](https://athanor-psi.vercel.app) |
 | **[VEGA](https://github.com/djizus/agent-gmx)** | Agent | Autonomous GMX perps trading agent on Daydreams. **🏆 GMX competition winner.** | (closed beta) |
-| **Hydra** (@z-korp) | Platform | Multi-game AI agent control plane. Autonomous agents play, trade and stream live across Starknet and Solana. | [hydra-gold.vercel.app](https://hydra-gold.vercel.app) |
+| **Hydra** | Platform | Multi-game AI agent control plane. Autonomous agents play, trade and stream live across Starknet and Solana. | [hydra-gold.vercel.app](https://hydra-gold.vercel.app) |
 | **[Realms: Blitz](https://github.com/BibliothecaDAO/eternum/)** | Game | Short-format spin-off of Realms. Core contributor across Realms Studio on gameplay, UI/UX and game design. | [dev.blitz.realms.world](https://dev.blitz.realms.world/) |
 | **[zKube](https://github.com/z-korp/zkube)** | Game | Fully onchain Tetris-inspired puzzle game on Starknet. Co-led the v2 mainnet release with story mode, tournaments, Budokan integration and the zStar economy. | [app.zkube.xyz](https://app.zkube.xyz) |
 | **[Zordle](https://github.com/z-korp/zordle)** | Game | Fully onchain daily Wordle on Starknet, built on the EGC game-token standard. | [zordle-azure.vercel.app](https://zordle-azure.vercel.app) |
