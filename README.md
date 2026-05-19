@@ -33,6 +33,6 @@
 
 ### 🧭 Background
 
-Ten years of data engineering for major French organisations (BIC, Malakoff Humanis, Generali). Built pipelines, BI platforms and anonymisation systems. Since 2022, focused on Web3: contracts, frontends, agents, and the data layer that ties them together.
+Ten years of data engineering for major French organisations. Built pipelines, BI platforms and anonymisation systems. Since 2022, focused on Web3: contracts, frontends, agents, and the data layer that ties them together.
 
-<p align="center"><sub>Made with ❤️ in 🇫🇷 Always open to interesting onchain problems. <a href="https://x.com/djizus_">Say hi.</a></sub></p>
+<p align="center"><sub>Always open to interesting challenges. <a href="https://x.com/djizus_">Say hi.</a></sub></p>
