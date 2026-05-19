@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="djizus" src="./assets/header.svg" width="900" />
-</p>
-
-<p align="center">
   <a href="https://github.com/djizus">
     <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=5755FF&center=true&vCenter=true&width=620&height=44&lines=Building+onchain+games;Shipping+autonomous+AI+agents;Crafting+data-driven+tooling;%F0%9F%8F%86+Dojo+Game+Jam+VIII+winner+%3A+Athanor;%F0%9F%8F%86+GMX+AI+Agent+Trading+winner+%3A+VEGA" />
   </a>
