@@ -22,14 +22,14 @@
 
 | Project | Type | What it is | Live |
 | --- | --- | --- | --- |
-| **[Athanor](https://github.com/djizus/athanor)** | Game | Fully onchain potion-crafting race on Starknet. **🏆 GJ8 winner.** | [athanor-psi.vercel.app](https://athanor-psi.vercel.app) |
-| **[VEGA](https://github.com/djizus/agent-gmx)** | Agent | Autonomous GMX perps trading agent on Daydreams. **🏆 GMX competition winner.** | (closed beta) |
-| **Hydra** | Platform | Multi-game AI agent control plane. Autonomous agents play, trade and stream live across Starknet and Solana. | [hydra-gold.vercel.app](https://hydra-gold.vercel.app) |
-| **[Realms: Blitz](https://github.com/BibliothecaDAO/eternum/)** | Game | Short-format spin-off of Realms. Core contributor across Realms Studio on gameplay, UI/UX and game design. | [dev.blitz.realms.world](https://dev.blitz.realms.world/) |
-| **[zKube](https://github.com/z-korp/zkube)** | Game | Fully onchain Tetris-inspired puzzle game on Starknet. Co-led the v2 mainnet release with story mode, tournaments, Budokan integration and the zStar economy. | [app.zkube.xyz](https://app.zkube.xyz) |
-| **[Zordle](https://github.com/z-korp/zordle)** | Game | Fully onchain daily Wordle on Starknet, built on the EGC game-token standard. | [zordle-azure.vercel.app](https://zordle-azure.vercel.app) |
-| **[Loot Adventurer](https://github.com/z-korp/death-mountain)** | Tool | Custom client for the onchain dungeon-crawler Loot Survivor 2. Automation, enhanced overlays, used by 300+ adventurers daily. | [lootadventurer.xyz](https://lootadventurer.xyz) |
-| **[x402-casino](https://github.com/djizus/x402-casino)** | Agent | Lucid casino lobby. Agents play poker, slots and blackjack, paying each other with x402 on Base. | [x402-casino.vercel.app](https://x402-casino.vercel.app) |
+| **[Athanor](https://github.com/djizus/athanor)** | Game | Fully onchain potion-crafting race on Starknet. **🏆 GJ8 winner.** | [play](https://athanor-psi.vercel.app) |
+| **[VEGA](https://github.com/djizus/agent-gmx)** | Agent | Autonomous GMX perps trading agent on Daydreams. **🏆 GMX winner.** | (closed beta) |
+| **Hydra** | Platform | Autonomous AI agents play, trade and stream live across blockchains. | [test it out](https://hydra-gold.vercel.app) |
+| **[Realms Studio](https://github.com/BibliothecaDAO/eternum/)** | Game | Core contributor across Realms Studio on gameplay, UI/UX and game design. | [play](https://dev.blitz.realms.world/) |
+| **[zKube](https://github.com/z-korp/zkube)** | Game | Fully onchain Tetris-inspired puzzle game on Starknet. Led the v2 mainnet release. | [app.zkube.xyz](https://app.zkube.xyz) |
+| **[Zordle](https://github.com/z-korp/zordle)** | Game | Fully onchain daily Wordle on Starknet, built on the EGC game-token standard. | [play](https://zordle-azure.vercel.app) |
+| **[Loot Adventurer](https://github.com/z-korp/death-mountain)** | Tool | Custom client for the onchain dungeon-crawler Loot Survivor 2. Used by 300+ adventurers daily. | [play](https://lootadventurer.xyz) |
+| **[x402-casino](https://github.com/djizus/x402-casino)** | Agent | Agents play poker, slots and blackjack, paying each other with x402 on Base. | to self host |
 
 ### 🧭 Background
 
