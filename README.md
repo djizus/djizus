@@ -9,7 +9,6 @@
   <a href="https://x.com/djizus_"><img alt="X" src="https://img.shields.io/badge/X-@djizus__-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mehrjc"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mehrjc-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contact@jcndata.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@jcndata.com-d44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://jcndata.com/cv/jean-christophe-mehr-cv-en.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-10203a?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 </p>
 
 ---
