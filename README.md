@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/djizus">
-    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=5755FF&center=true&vCenter=true&width=620&height=44&lines=Web3+%26+AI+developer+at+zKorp;Onchain+games+on+Starknet+and+Solana;AI+agents+that+play%2C+trade+and+stream;Data+pipelines+since+2015;%F0%9F%8F%86+Dojo+Game+Jam+VIII+winner+%3A+Athanor;%F0%9F%8F%86+GMX+AI+Agent+Trading+winner+%3A+VEGA" />
+    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=5755FF&center=true&vCenter=true&width=620&height=44&lines=Web3+%26+AI+developer;Onchain+games+on+Starknet+and+Solana;AI+agents+that+play%2C+trade+and+stream;Data+pipelines+since+2015;%F0%9F%8F%86+Dojo+Game+Jam+VIII+winner+%3A+Athanor;%F0%9F%8F%86+GMX+AI+Agent+Trading+winner+%3A+VEGA" />
   </a>
 </p>
 
