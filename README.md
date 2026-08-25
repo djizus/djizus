@@ -24,15 +24,16 @@
 | --- | --- | --- | --- |
 | **[Athanor](https://github.com/djizus/athanor)** | Game | Fully onchain potion-crafting race on Starknet. **🏆 GJ8 winner.** | [play](https://athanor-psi.vercel.app) |
 | **[VEGA](https://github.com/djizus/agent-gmx)** | Agent | Autonomous GMX perps trading agent on Daydreams. **🏆 GMX winner.** | (closed beta) |
-| **Hydra** | Platform | Autonomous AI agents play, trade and stream live across blockchains. | [test it out](https://hydra-gold.vercel.app) |
-| **[Realms Studio](https://github.com/BibliothecaDAO/eternum/)** | Game | Core contributor across Realms Studio on gameplay, UI/UX and game design. | [play](https://dev.blitz.realms.world/) |
-| **[zKube](https://github.com/z-korp/zkube)** | Game | Fully onchain Tetris-inspired puzzle game on Starknet. Led the v2 mainnet release. | [app.zkube.xyz](https://app.zkube.xyz) |
-| **[Zordle](https://github.com/z-korp/zordle)** | Game | Fully onchain daily Wordle on Starknet, built on the EGC game-token standard. | [play](https://zordle-azure.vercel.app) |
-| **[Loot Adventurer](https://github.com/z-korp/death-mountain)** | Tool | Custom client for the onchain dungeon-crawler Loot Survivor 2. Used by 300+ adventurers daily. | [play](https://lootadventurer.xyz) |
+| **Cage Calls** | Game | Free-to-play mobile app for Armored MMA (AMMA) with prediction markets and NFTs to win, on Starknet. Built for Medieval Tech with zKorp. | (client work) |
+| **Hydra** | Platform | AI agents play games, trade and stream live across Starknet and Solana. | (private) |
+| **[Realms Studio](https://github.com/BibliothecaDAO/eternum/)** | Game | Fullstack Web3 developer, core contributor to the Eternum and Blitz games. | [play](https://dev.blitz.realms.world/) |
+| **[zKube](https://github.com/z-korp/zkube)** | Game | Tetris-inspired puzzle game, fully onchain on Starknet. Co-led the v2 mainnet release and the Solana version. | [app.zkube.xyz](https://app.zkube.xyz) |
+| **[Zordle](https://github.com/z-korp/zordle)** | Game | Daily Wordle, fully onchain on Starknet. | [play](https://zordle-azure.vercel.app) |
+| **[Loot Adventurer](https://github.com/z-korp/death-mountain)** | Tool | Custom client for the onchain dungeon crawler Loot Survivor 2, with automation and enhanced overlays. | [play](https://lootadventurer.xyz) |
 | **[x402-casino](https://github.com/djizus/x402-casino)** | Agent | Agents play poker, slots and blackjack, paying each other with x402 on Base. | to self host |
 
 ### 🧭 Background
 
-Ten years of data engineering for major French organisations. Built pipelines, BI platforms and anonymisation systems. Since 2022, focused on Web3: contracts, frontends, agents, and the data layer that ties them together.
+Data engineer for ten years at BIC, Malakoff Humanis and Generali, tech lead on most projects. Web3 and AI developer since 2022, at zKorp since 2025. I build onchain games, AI agents and data pipelines.
 
 <p align="center"><sub>Always open to interesting challenges. <a href="https://x.com/djizus_">Say hi.</a></sub></p>
