@@ -25,7 +25,7 @@
 | --- | --- | --- | --- |
 | **[Athanor](https://github.com/djizus/athanor)** | Game | Fully onchain potion-crafting race on Starknet. **🏆 GJ8 winner.** | [play](https://athanor-psi.vercel.app) |
 | **[VEGA](https://github.com/djizus/agent-gmx)** | Agent | Autonomous GMX perps trading agent on Daydreams. **🏆 GMX winner.** | (closed beta) |
-| **Cage Calls** | Game | Free-to-play mobile app for Armored MMA (AMMA) with prediction markets and NFTs to win, on Starknet. Built for Medieval Tech with zKorp. | in the AMMA app |
+| **Cage Calls** | Game | Free-to-play mobile app for Armored MMA (AMMA) with prediction markets and NFTs to win, on Starknet. Built for Medieval Tech with zKorp. | [AMMA app](https://www.armoredmma.com/amma-app) |
 | **Hydra** | Platform | AI agents play games, trade and stream live across Starknet and Solana. | (private) |
 | **[Realms: Blitz](https://github.com/BibliothecaDAO/eternum/tree/blitz)** | Game | Short-format version of the onchain strategy game Realms. Fullstack Web3 developer with the BibliothecaDAO team. | [play](https://dev.blitz.realms.world/) |
 | **[zKube](https://github.com/z-korp/zkube)** | Game | Tetris-inspired puzzle game, fully onchain on Starknet. Co-led the v2 mainnet release and the Solana version. | [app.zkube.xyz](https://app.zkube.xyz) |
