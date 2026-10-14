@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/djizus">
-    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=5755FF&center=true&vCenter=true&width=620&height=44&lines=Web3+%26+AI+developer;Onchain+games+on+Starknet+and+Solana;AI+agents+that+play%2C+trade+and+stream;Data+pipelines+since+2015;%F0%9F%8F%86+Dojo+Game+Jam+VIII+winner+%3A+Athanor;%F0%9F%8F%86+GMX+AI+Agent+Trading+winner+%3A+VEGA" />
+    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=5755FF&center=true&vCenter=true&width=620&height=44&lines=Data+engineer+turned+onchain+builder;Most+of+what+I+build+is+open+source;%F0%9F%8F%86+Dojo+Game+Jam+VIII+winner%3A+Athanor;%F0%9F%8F%86+GMX+AI+Agent+Trading+winner%3A+VEGA" />
   </a>
 </p>
 
@@ -22,18 +22,21 @@
 
 | Project | Type | What it is | Live |
 | --- | --- | --- | --- |
+| **[Realms: Blitz](https://github.com/BibliothecaDAO/eternum/tree/blitz)** | Game | Short-format version of the onchain strategy game Realms. Fullstack developer with the BibliothecaDAO team on gameplay, interface and game design. | [play](https://dev.blitz.realms.world/) |
+| **Cage Calls** | App | Free-to-play mobile app for Armored MMA (AMMA) fans, with prediction markets on fights and NFTs to win. Built for Medieval Tech with zKorp. The [SDK](https://github.com/medieval-tech/cage-calls-sdk) is open source. | [AMMA app](https://www.armoredmma.com/amma-app) |
+| **[zKube](https://github.com/z-korp/zkube)** | Game | Tetris-inspired puzzle game, fully onchain. Co-led the v2 mainnet release on Starknet and the [Solana Mobile version](https://github.com/z-korp/zkube-solana), which runs one onchain contest a day. | [app.zkube.xyz](https://app.zkube.xyz) |
 | **[Athanor](https://github.com/djizus/athanor)** | Game | Fully onchain potion-crafting race on Starknet. **🏆 GJ8 winner.** | [play](https://athanor-psi.vercel.app) |
+| **Hydra** | Platform | Control plane where AI agents play games, trade and stream live. Built at zKorp. Its spectator overlays are open source: [Loot Survivor](https://github.com/djizus/loot-survivor-spectate), [NUMS](https://github.com/djizus/nums-lightview). | (private) |
 | **[VEGA](https://github.com/djizus/agent-gmx)** | Agent | Autonomous GMX perps trading agent on Daydreams. **🏆 GMX winner.** | (closed beta) |
-| **Cage Calls** | Game | Free-to-play mobile app for Armored MMA (AMMA) with prediction markets and NFTs to win, on Starknet. Built for Medieval Tech with zKorp. | [AMMA app](https://www.armoredmma.com/amma-app) |
-| **Hydra** | Platform | AI agents play games, trade and stream live across Starknet and Solana. | (private) |
-| **[Realms: Blitz](https://github.com/BibliothecaDAO/eternum/tree/blitz)** | Game | Short-format version of the onchain strategy game Realms. Fullstack Web3 developer with the BibliothecaDAO team. | [play](https://dev.blitz.realms.world/) |
-| **[zKube](https://github.com/z-korp/zkube)** | Game | Tetris-inspired puzzle game, fully onchain on Starknet. Co-led the v2 mainnet release and the Solana version. | [app.zkube.xyz](https://app.zkube.xyz) |
+| **[x402-casino](https://github.com/djizus/x402-casino)** | Agent | Casino where AI agents play poker, slots and blackjack and pay each other with x402 on Base. | [demo](https://x402-casino.vercel.app) |
 | **[Zordle](https://github.com/z-korp/zordle)** | Game | Daily Wordle, fully onchain on Starknet. | [play](https://zordle-azure.vercel.app) |
 | **[Loot Adventurer](https://github.com/z-korp/death-mountain)** | Tool | Custom client for the onchain dungeon crawler Loot Survivor 2, with automation and enhanced overlays. | [play](https://lootadventurer.xyz) |
-| **[x402-casino](https://github.com/djizus/x402-casino)** | Agent | Agents play poker, slots and blackjack, paying each other with x402 on Base. | self-hosted |
+| **[controller-sender](https://github.com/djizus/controller-sender)** | Tool | Local app that sends any ERC20 token from a Cartridge Controller to a Starknet address. Wraps the official controller-cli. | runs locally |
+
+### 🔧 Upstream pull requests
+
+[Cartridge Controller](https://github.com/cartridge-gg/controller/pull/2668), [Madara](https://github.com/madara-alliance/madara/pull/1258), [Starknet Foundry](https://github.com/foundry-rs/starknet-foundry/pull/4601), [Torii](https://github.com/dojoengine/torii/pull/434).
 
 ### 🧭 Background
 
-Data engineer for ten years at BIC, Malakoff Humanis and Generali, tech lead on most projects. Web3 and AI developer since 2022, at zKorp since 2025. I build onchain games, AI agents and data pipelines.
-
-<p align="center"><sub>Open to onchain, AI and data work. <a href="https://x.com/djizus_">Say hi.</a></sub></p>
+Data engineer for ten years at BIC, Malakoff Humanis and Generali, tech lead on most projects. Onchain since 2022, at zKorp since 2025.
