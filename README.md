@@ -22,13 +22,13 @@
 
 | Project | Type | What it is | Live |
 | --- | --- | --- | --- |
-| **[Realms: Blitz](https://github.com/BibliothecaDAO/eternum/tree/blitz)** | Game | Short-format version of the onchain strategy game Realms. Fullstack developer with the BibliothecaDAO team on gameplay, interface and game design. | [play](https://dev.blitz.realms.world/) |
+| **[Realms: Blitz](https://github.com/BibliothecaDAO/eternum)** | Game | Short-format version of the onchain strategy game Realms. Fullstack developer with the BibliothecaDAO team on gameplay, interface and game design. | [play](https://dev.blitz.realms.world/) |
 | **Cage Calls** | Game | Free-to-play game inside the Armored MMA app. Fans call the winner of each fight and earn Relics, collectibles drawn from the winning fighter's defining actions. Built for Medieval Tech with zKorp. The [SDK](https://github.com/medieval-tech/cage-calls-sdk) is open source. | [AMMA app](https://www.armoredmma.com/amma-app) |
 | **[zKube](https://github.com/z-korp/zkube)** | Game | Tetris-inspired puzzle game, fully onchain. Co-led the v2 mainnet release on Starknet and the [Solana Mobile version](https://github.com/z-korp/zkube-solana), which runs one onchain contest a day. | [app.zkube.xyz](https://app.zkube.xyz) |
 | **[Athanor](https://github.com/djizus/athanor)** | Game | Fully onchain potion-crafting race on Starknet. **🏆 GJ8 winner.** | [play](https://athanor-psi.vercel.app) |
 | **Hydra** | Platform | Control plane where AI agents play games, trade and stream live. Built at zKorp. Its spectator overlays are open source: [Loot Survivor](https://github.com/djizus/loot-survivor-spectate), [NUMS](https://github.com/djizus/nums-lightview). | (private) |
 | **[VEGA](https://github.com/djizus/agent-gmx)** | Agent | Autonomous GMX perps trading agent on Daydreams. **🏆 GMX winner.** | (closed beta) |
-| **[x402-casino](https://github.com/djizus/x402-casino)** | Agent | Casino where AI agents play poker, slots and blackjack and pay each other with x402 on Base. | [demo](https://x402-casino.vercel.app) |
+| **[x402-casino](https://github.com/djizus/x402-casino)** | Agent | Casino where AI agents play poker, slots and blackjack and pay each other with x402 on Base. | self-hosted |
 | **[Zordle](https://github.com/z-korp/zordle)** | Game | Daily Wordle, fully onchain on Starknet. | [play](https://zordle-azure.vercel.app) |
 | **[Loot Adventurer](https://github.com/z-korp/death-mountain)** | Tool | Custom client for the onchain dungeon crawler Loot Survivor 2, with automation and enhanced overlays. | [play](https://lootadventurer.xyz) |
 | **[controller-sender](https://github.com/djizus/controller-sender)** | Tool | Local app that sends any ERC20 token from a Cartridge Controller to a Starknet address. Wraps the official controller-cli. | runs locally |
