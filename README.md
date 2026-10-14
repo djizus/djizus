@@ -23,7 +23,7 @@
 | Project | Type | What it is | Live |
 | --- | --- | --- | --- |
 | **[Realms: Blitz](https://github.com/BibliothecaDAO/eternum/tree/blitz)** | Game | Short-format version of the onchain strategy game Realms. Fullstack developer with the BibliothecaDAO team on gameplay, interface and game design. | [play](https://dev.blitz.realms.world/) |
-| **Cage Calls** | App | Free-to-play mobile app for Armored MMA (AMMA) fans, with prediction markets on fights and NFTs to win. Built for Medieval Tech with zKorp. The [SDK](https://github.com/medieval-tech/cage-calls-sdk) is open source. | [AMMA app](https://www.armoredmma.com/amma-app) |
+| **Cage Calls** | Game | Free-to-play game inside the Armored MMA app. Fans call the winner of each fight and earn Relics, collectibles drawn from the winning fighter's defining actions. Built for Medieval Tech with zKorp. The [SDK](https://github.com/medieval-tech/cage-calls-sdk) is open source. | [AMMA app](https://www.armoredmma.com/amma-app) |
 | **[zKube](https://github.com/z-korp/zkube)** | Game | Tetris-inspired puzzle game, fully onchain. Co-led the v2 mainnet release on Starknet and the [Solana Mobile version](https://github.com/z-korp/zkube-solana), which runs one onchain contest a day. | [app.zkube.xyz](https://app.zkube.xyz) |
 | **[Athanor](https://github.com/djizus/athanor)** | Game | Fully onchain potion-crafting race on Starknet. **🏆 GJ8 winner.** | [play](https://athanor-psi.vercel.app) |
 | **Hydra** | Platform | Control plane where AI agents play games, trade and stream live. Built at zKorp. Its spectator overlays are open source: [Loot Survivor](https://github.com/djizus/loot-survivor-spectate), [NUMS](https://github.com/djizus/nums-lightview). | (private) |
